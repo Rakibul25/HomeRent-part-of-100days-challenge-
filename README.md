@@ -1,16 +1,28 @@
-# homerent
+# Introduction
+This is a home rent application, focused on frontend. This will show all available home for rent and sell. Also you can search with some filter. Also it has a details page, which will show details about house.
 
-A new Flutter project.
+# Feature List
+- Home details
+- Filtering
+- Detals page
+- Map view
 
-## Getting Started
+# Developed Using
+- Flutter
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>Home</td>
+     <td>Details</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Rakibul25/-100daysofcode-mobile_app-/blob/100days/homerent/screenshots/home.jpg" width="220" height="430"></td>
+    <td><img src="https://github.com/Rakibul25/-100daysofcode-mobile_app-/blob/100days/homerent/screenshots/details.jpg" width="220" height="430"></td>
+  </tr>
+ </table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Thank You :) ☕
