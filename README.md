@@ -1,5 +1,5 @@
 # Introduction
-This is a home rent application, focused on frontend. This will show all available home for rent and sell. Also you can search with some filter. Also it has a details page, which will show details about house.
+This is a home rental application focused on the front-end. This app will show all available homes for rent and sale. Also, you can search with some filters. It has a details page, which will show details about the house.
 
 # Feature List
 - Home details
